@@ -38,7 +38,7 @@
 
 ### Free time:
 1) Math
-	- 
+	- https://math.stackexchange.com/questions/1876271/re-learning-math-from-scratch
 
 2) DevOps and Engineering books in general
 	- [x] The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
