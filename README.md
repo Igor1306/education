@@ -31,14 +31,14 @@
 
 ### Certifications:
 - az-400 (deadline - August 10th) 
-	- [ ] Microsoft free az400 course ![Progress](https://progress-bar.dev/40/?title=progress) 
+	- [ ] Microsoft free az400 course ![Progress](https://progress-bar.dev/50/?title=progress) 
 	https://docs.microsoft.com/en-us/learn/certifications/exams/az-400?tab=tab-learning-paths
 
 ---
 
 ### Free time:
 1) Math
-	- [ ] 
+	- 
 
 2) DevOps and Engineering books in general
 	- [x] The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
