@@ -42,5 +42,5 @@
 
 2) DevOps and Engineering books in general
 	- [x] The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win ![Progress](https://progress-bar.dev/100/?title=progress) 
-	- [ ] The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations ![Progress](https://progress-bar.dev/50/?title=progress) 
+	- [x] The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations ![Progress](https://progress-bar.dev/100/?title=progress) 
 	- [ ] Site Reliability Engineering: How Google Runs Production Systems ![Progress](https://progress-bar.dev/0/?title=progress) 
