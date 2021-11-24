@@ -30,7 +30,7 @@
 ---
 
 ### Certifications:
-- az-400 (deadline - August 10th) 
+- az-400 (deadline -) 
 	- [ ] Microsoft free az400 course ![Progress](https://progress-bar.dev/50/?title=progress) 
 	https://docs.microsoft.com/en-us/learn/certifications/exams/az-400?tab=tab-learning-paths
 
