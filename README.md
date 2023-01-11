@@ -1,6 +1,7 @@
 ## Plan of self-education, also repo for playing around with different technologies.
 
 ### Basic knowledge:
+
 - #### Networking 
 	- [ ] Tanenbaum book ![Progress](https://progress-bar.dev/0/?title=progress) 
 	- [ ] The Complete Networking Fundamentals Course. Your CCNA start Learn about networking and start your journey to Cisco 200-301 Certification. ![Progress](https://progress-bar.dev/0/?title=progress)  
